@@ -2,7 +2,7 @@
 
 A chaotic small little Python project made by Markov chains, too much froggos, and spoonfuls of questionable texts.
 
-Built in 2022 as a Computer Science final project to generate cursed sentences, so please consider it as the voice of a Froggo trying to learn hooman language 𓆏 ₍𝄐⩌𝄐₎
+This was built in 2022 as a Computer Science final project to generate cursed sentences, so please consider it as the voice of a Froggo trying to learn hooman language 𓆏 ₍𝄐⩌𝄐₎
 
 ✧ **ଘ(੭ˊᵕˋ)੭ ੈ✩‧₊Keyboard Prediction:** Autocorrect-like tool that suggests the next word based on your inputs and previous words.
 
